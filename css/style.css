@@ -2539,7 +2539,8 @@ a {
         margin-bottom: 23px;
     }
     .reviews {
-        margin-bottom: 60px;
+        padding-bottom: 60px;
+        margin: 0;
     }
     .contacts__wrap>div {
         width: 50%;
